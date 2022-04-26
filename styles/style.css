@@ -1,0 +1,13 @@
+/*font-family: 'Lato', sans-serif;
+font-family: 'PT Sans', sans-serif;*/
+html {
+	font-size: 15px;
+}
+
+body {
+	margin: 0;
+	font-family: "PT Sans", sans-serif;
+	font-size: 1rem;
+	color: #585858;
+	background-color: red;
+}
